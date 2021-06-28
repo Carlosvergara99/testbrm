@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://cms-assets.tutsplus.com/uploads/users/769/posts/25334/preview_image/get-started-with-laravel-6-400x277.png" width="100"></p>
 
 
 
@@ -7,7 +7,6 @@
 
 - PHP : ≥7.2.
 - [Composer](https://getcomposer.org/download/).
-- [Node.Js](https://nodejs.org/es//).
 - [Git](https://git-scm.com/).
   
 ## Instalación :clipboard:
@@ -15,7 +14,7 @@
 1. Abrir  la consola de comandos de Git (Windows) o la Terminal en sistemas basados en Unix (Mac o Linux) y posicionare en el directorio raíz.
 2. Después Ejecutar el siguiente comando:  
 ```
-git clone https://github.com/Carlosvergara99/Prueba_practica.git
+git clone https://github.com/Carlosvergara99/testbrm.git
 ```
 .
 3. Luego debe ingresar a la carpeta del proyecto y ejecutar ejecuta el comando:
@@ -42,20 +41,8 @@ php artisan key:generate
 php artisan migrate
 
 ```
-9. Después ejecutar el siguiente comando dentro del proyecto
 
-```
-npm install 
-
-```
-
-10. luego  ejecutar el siguiente comando dentro del proyecto
-
-```
- npm run watch
-
-```
-11. Para ejecutar la aplicación se recomienda abrir una nueva terminal,situarse dentro del proyecto y ejecutar el siguiente comando:
+9. Para ejecutar la aplicación se recomienda abrir una nueva terminal,situarse dentro del proyecto y ejecutar el siguiente comando:
 ```
  php artisan serve
 
